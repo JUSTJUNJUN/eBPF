@@ -1,5 +1,3 @@
-/* Copyright (C) 2022 Xuehj.
- */
 #include <linux/bpf.h>
 #include <linux/netlink.h>
 #include <linux/rtnetlink.h>
